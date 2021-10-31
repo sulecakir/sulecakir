@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<style>
+body {
+    background-color : rgb(230, 189, 214);
+}
+
+</style>
+</head> 
+<body>
+
+    <img src="masaüstü/site logo.jpg" width="200" height="70" alt="Web Sitesi Logosu" />
+
+</body>
+
+</html>
